@@ -1,0 +1,33 @@
+Variable name,Display name,unit,Standard 15-40 kg,Standard 10-15 kg,Numeta G13E,Numeta G16E,Numeta G19E,Kabiven,Kabiven Perifer,SmofKabiven,SmofKabiven Elektrolytfri,SmofKabiven extra Nitrogen,SmofKabiven extra Nitrogen Electrolyte free,SmofKabiven Perifer
+unit_vol,Unit volume,ml,100,100,300,500,1000,1000,1000,1000,1000,1000,1000,1000
+fluid_val,Fluid,ml,100,100,300,500,1000,1000,1000,1000,1000,1000,1000,1000
+glucose_val,Glucose,g,15,13.3,40,77.5,192,97,68,127,127,84.7,84.7,71
+amino_val,Amino acids,g,3.4,3,9.4,13,23,33,24,51,51,65.5,65.5,32
+lipids_val,Lipids,g,3.3,3,7.5,15.5,28.1,39,35,38,38,28.9,28.9,28
+na_val,Sodium (Na),mmol,5,3.6,6.6,12,45.8,31,22,41,0,40.8,0,25
+k_val,Potasium (K),mmol,3.3,3,6.2,11.4,32,23,17,30,0,30.5,0,19
+cl_val,Chlorine (Cl),mmol,0,0,0,0,0,45,33,36,0,35.6,0,22
+ca_val,Calcium (Ca),mmol,0.42,0.47,3.8,3.1,3.8,2,1.4,2.5,0,2.6,0,1.6
+p_val,Phosphorus (P),mmol,1,0.77,3.8,4.4,9.4,10,7.5,13,0,12.7,2.2,8.2
+mg_val,Magnesium (Mg),mmol,0.33,0.23,0.47,1.6,2.6,4,2.8,5.1,0,5.1,0,3.2
+vit_a_val,Vitamin A pr kg,μg,0,0,0,0,0,0,0,0,0,0,0,0
+vit_d_val,Vitamin D pr day,μg,0,0,0,0,0,0,0,0,0,0,0,0
+vit_e_val,Vitamin E,mg,0,0,0,0,0,0,0,0,0,0,0,0
+vit_k_val,Vitamin K,μg,0,0,0,0,0,0,0,0,0,0,0,0
+vit_c_val,Vitamin C,mg,0,0,0,0,0,0,0,0,0,0,0,0
+thiamine_val,Thiamine,mg,0,0,0,0,0,0,0,0,0,0,0,0
+riboflavin_val,Riboflavin,mg,0,0,0,0,0,0,0,0,0,0,0,0
+pyridoxine_val,Pyridoxine,mg,0,0,0,0,0,0,0,0,0,0,0,0
+niacin_val,Niacin,mg,0,0,0,0,0,0,0,0,0,0,0,0
+vit_b12_val,Vitamin B12,μg,0,0,0,0,0,0,0,0,0,0,0,0
+pantothenic_acid_val,Pantothenic acid,mg,0,0,0,0,0,0,0,0,0,0,0,0
+biotin_val,Biotin,μg,0,0,0,0,0,0,0,0,0,0,0,0
+folic_acid_val,Folic acid,μg,0,0,0,0,0,0,0,0,0,0,0,0
+iron_val,Iron,μg,0,0,0,0,0,0,0,0,0,0,0,0
+zinc_val,Zinc,μg,0,0,0,0,0,0,0,40,40,40,0,20
+copper_val,Copper,μg,0,0,0,0,0,0,0,0,0,0,0,0
+iodine_val,Iodine,μg,0,0,0,0,0,0,0,0,0,0,0,0
+selenium_val,Selenium,μg,0,0,0,0,0,0,0,0,0,0,0,0
+manganese_val,Manganese,μg,0,0,0,0,0,0,0,0,0,0,0,0
+molybdenum_val,Molybdenum,μg,0,0,0,0,0,0,0,0,0,0,0,0
+chromium_val,Chromium,μg,0,0,0,0,0,0,0,0,0,0,0,0

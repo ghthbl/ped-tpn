@@ -1,0 +1,33 @@
+Variable name,Display name,unit,Frebini Energy 1dl,Frebini Energy 1 can
+unit_vol,Unit volume,ml,100,200
+fluid_val,Fluid,ml,78,156
+glucose_val,Glucose,g,18.7,37.4
+amino_val,Amino acids,g,3.83,7.66
+lipids_val,Lipids,g,6.7,13.4
+na_val,Sodium (Na),mmol,3.70,7.40
+k_val,Potassium (K),mmol,3.89,7.78
+cl_val,Chlorine (Cl),mmol,3.80,7.60
+ca_val,Calcium (Ca),mmol,2.62,5.24
+p_val,Phosphorus (P),mmol,2.97,5.94
+mg_val,Magnesium (Mg),mmol,0.80,1.60
+vit_a_val,Vitamin A pr kg,μg,93,186
+vit_d_val,Vitamin D pr day,μg,1.5,3.0
+vit_e_val,Vitamin E,mg,3.0,6.0
+vit_k_val,Vitamin K,μg,6.0,12.0
+vit_c_val,Vitamin C,mg,12,24
+thiamine_val,Thiamine,mg,0.15,0.3
+riboflavin_val,Riboflavin,mg,0.15,0.3
+pyridoxine_val,Pyridoxine,mg,0.17,0.34
+niacin_val,Niacin,mg,1.8,3.6
+vit_b12_val,Vitamin B12,μg,0.3,0.6
+pantothenic_acid_val,Pantothenic acid,mg,0.6,1.2
+biotin_val,Biotin,μg,60,120
+folic_acid_val,Folic acid,μg,400,800
+iron_val,Iron,μg,1500,3000
+zinc_val,Zinc,μg,1200,2400
+copper_val,Copper,μg,150,300
+iodine_val,Iodine,μg,15,30
+selenium_val,Selenium,μg,4.5,9.0
+manganese_val,Manganese,μg,180,360
+molybdenum_val,Molybdenum,μg,6,12
+chromium_val,Chromium,μg,6,12

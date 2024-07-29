@@ -1,0 +1,33 @@
+Variable name,Display name,unit,Soluvit
+unit_vol,Unit volume,ml,0
+fluid_val,Fluid,ml,0
+glucose_val,Glucose,g,0
+amino_val,Amino acids,g,0
+lipids_val,Lipids,g,0
+na_val,Sodium (Na),mmol,0
+k_val,Potasium (K),mmol,0
+cl_val,Chlorine (Cl),mmol,0
+ca_val,Calcium (Ca),mmol,0
+p_val,Phosphorus (P),mmol,0
+mg_val,Magnesium (Mg),mmol,0
+vit_a_val,Vitamin A pr kg,μg,0
+vit_d_val,Vitamin D pr day,μg,0
+vit_e_val,Vitamin E,mg,0
+vit_k_val,Vitamin K,μg,0
+vit_c_val,Vitamin C,mg,100
+thiamine_val,Thiamine,mg,2.5
+riboflavin_val,Riboflavin,mg,3.6
+pyridoxine_val,Pyridoxine,mg,4
+niacin_val,Niacin,mg,40
+vit_b12_val,Vitamin B12,μg,5
+pantothenic_acid_val,Pantothenic acid,mg,15
+biotin_val,Biotin,μg,60
+folic_acid_val,Folic acid,μg,400
+iron_val,Iron,μg,0
+zinc_val,Zinc,μg,0
+copper_val,Copper,μg,0
+iodine_val,Iodine,μg,0
+selenium_val,Selenium,μg,0
+manganese_val,Manganese,μg,0
+molybdenum_val,Molybdenum,μg,0
+chromium_val,Chromium,μg,0

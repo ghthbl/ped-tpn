@@ -1,0 +1,841 @@
+{
+    "_comment": "Metadata field serving as comment. ESPGHAN data accessed 28.07.2024. Starting with macronutrients.",
+    "fluid_val": [
+        {
+            "_comment": "",
+            "minAge": -1,
+            "maxAge": 0,
+            "minWeight": 1.5,
+            "maxWeight": null,
+            "value": "1st day (D1) 60-80\nD2: 80-100\nD3: 100-120\n4D4 120-140\n5D5+: 140-160",
+            "unit": "ml/kg/day",
+            "more": "-"
+        },
+        {
+            "_comment": "",
+            "minAge": -1,
+            "maxAge": 0,
+            "minWeight": 1,
+            "maxWeight": 1.5,
+            "value": "1st day (D1) 70-90\nD2: 90-110\nD3: 110-130\nD4: 130-150\nD5: 160-180\nAD6+:140-160",
+            "unit": "ml/kg/day",
+            "more": "-"
+        },
+        {
+            "_comment": "",
+            "minAge": -1,
+            "maxAge": 0,
+            "minWeight": null,
+            "maxWeight": 1,
+            "value": "1st day (D1) 80-100\nD2: 100-120\nD3: 120-140\nD4: 140-160\nD5: 160-180\nD6+: 140-160",
+            "unit": "ml/kg/day",
+            "more": "-"
+        },
+        {
+            "_comment": "",
+            "minAge": 0,
+            "maxAge": 1,
+            "value": "1st day (D1) 40-60\nD2: 50-70\nD3: 60-80\nD4: 60-100\nD5: 100-140\nD6+: 140-160",
+            "unit": "ml/kg/day",
+            "more": "-"
+        },
+        {
+            "_comment": "",
+            "minAge": 1,
+            "maxAge": 12,
+            "value": "120-150",
+            "unit": "ml/kg/day",
+            "more": "-"
+        },
+        {
+            "_comment": "",
+            "minAge": 12,
+            "maxAge": 36,
+            "value": "80-120",
+            "unit": "ml/kg/day",
+            "more": "-"
+        },
+        {
+            "_comment": "",
+            "minAge": 36,
+            "maxAge": 72,
+            "value": "80-100",
+            "unit": "ml/kg/day",
+            "more": "-"
+        },
+        {
+            "_comment": "",
+            "minAge": 72,
+            "maxAge": 156,
+            "value": "60-80",
+            "unit": "ml/kg/day",
+            "more": "-"
+        },
+        {
+            "_comment": "",
+            "minAge": 156,
+            "maxAge": 217,
+            "value": "50-70",
+            "unit": "ml/kg/day",
+            "more": "-"
+        }
+    ],
+    "glucose_val": [
+        {
+            "_comment": "",
+            "minAge": -1,
+            "maxAge": 0,
+            "value": "Day 1 (D1): init 4-8 (5.8-11.5)\nD2-4: increase for 2-3 days; target 8-10 (11.5-14.4)\nmin 4 (5.8); max 12 (17.3)",
+            "unit": "mg/kg/min (g/kg/day)",
+            "more": "-"
+        },
+        {
+            "_comment": "",
+            "minAge": 0,
+            "maxAge": 1,
+            "value": "Day 1 (D1): init 2.5-5 (3.6-7.2)\nDay2-4: increase for 2-3 days; target 5-10 (7.2-14.4)\nmin 2.5 (3.6); max 12 (17.3)",
+            "unit": "mg/kg/min (g/kg/day)",
+            "more": "-"
+        },
+        {
+            "_comment": "",
+            "minAge": 1,
+            "maxAge": null,
+            "minWeight": null,
+            "maxWeight": 11,
+            "value": "acute phase: 2-4 (2.9-5.8)\nstable phase: 4-6 (5.8-8.6)\nrecovery phase: 6-10 (8.6-14)",
+            "unit": "mg/kg/min (g/kg/day)",
+            "more": "acute phase = resuscitation phase when the patient requires vital organ support (sedation, mechanical ventilation, vasopressors, fluid resuscitation)\nstable phase = patient is stable on, or can be weaned, from this vital support\nrecovery phase = patient who is mobilizing"
+        },
+        {
+            "_comment": "",
+            "minAge": 1,
+            "maxAge": null,
+            "minWeight": 11,
+            "maxWeight": 31,
+            "value": "acute phase: 1.5-2.5 (2.2-3.6)\nstable phase: 2-4 (2.8-5.8)\nrecovery phase: 3-6 (4.3-8.6)",
+            "unit": "mg/kg/min (g/kg/day)",
+            "more": "acute phase = resuscitation phase when the patient requires vital organ support (sedation, mechanical ventilation, vasopressors, fluid resuscitation)\nstable phase = patient is stable on, or can be weaned, from this vital support\nrecovery phase = patient who is mobilizing"
+        },
+        {
+            "_comment": "",
+            "minAge": 1,
+            "maxAge": null,
+            "minWeight": 31,
+            "maxWeight": 46,
+            "value": "acute phase: 1-1.5 (1.4-2.2)\nstable phase: 1.5-3 (2.2-4.3)\nrecovery phase: 3-4 (4.3-5.8)",
+            "unit": "mg/kg/min (g/kg/day)",
+            "more": "acute phase = resuscitation phase when the patient requires vital organ support (sedation, mechanical ventilation, vasopressors, fluid resuscitation)\nstable phase = patient is stable on, or can be weaned, from this vital support\nrecovery phase = patient who is mobilizing"
+        },
+        {
+            "_comment": "",
+            "minAge": 1,
+            "maxAge": null,
+            "minWeight": 46,
+            "maxWeight": null,
+            "value": "acute phase: 0.5-1 (0.7-1.4)\nstable phase: 1-2 (1.4–2.9)\nrecovery phase: 2-3 (2.9-4.3)",
+            "unit": "mg/kg/min (g/kg/day)",
+            "more": "acute phase = resuscitation phase when the patient requires vital organ support (sedation, mechanical ventilation, vasopressors, fluid resuscitation)\nstable phase = patient is stable on, or can be weaned, from this vital support\nrecovery phase = patient who is mobilizing"
+        }
+    ],
+    "amino_val": [
+        {
+            "_comment": "",
+            "minAge": -1,
+            "maxAge": 0,
+            "value": "First day: at least 1.5\nOnwards: 2.5-3.5",
+            "unit": "g/kg/day",
+            "more": "Avoid more than 3.5 g/kg/day\nShould be accompanied by non-protein intake of >65 kcal/kg/day and adequate micronutrient intake"
+        },
+        {
+            "_comment": "",
+            "minAge": 0,
+            "maxAge": 1,
+            "value": "1.5-3.0",
+            "unit": "g/kg/day",
+            "more": "-"
+        },
+        {
+            "_comment": "",
+            "minAge": 1,
+            "maxAge": 36,
+            "value": "1.5-2.5",
+            "unit": "g/kg/day",
+            "more": "-"
+        },
+        {
+            "_comment": "",
+            "minAge": 36,
+            "maxAge": 217,
+            "value": "1-2",
+            "unit": "g/kg/day",
+            "more": "-"
+        }
+    ],
+    "lipids_val": [
+        {
+            "_comment": "",
+            "minAge": -1,
+            "maxAge": 0,
+            "value": "Minimum of 0.25\nUp to 4",
+            "unit": "g/kg/day",
+            "more": "Gradually increase"
+        },
+        {
+            "_comment": "",
+            "minAge": 0,
+            "maxAge": 1,
+            "value": "Up to 4",
+            "unit": "g/kg/day",
+            "more": "Gradually increase"
+        },
+        {
+            "_comment": "",
+            "minAge": 1,
+            "maxAge": 36,
+            "value": "Up to 3",
+            "unit": "g/kg/day",
+            "more": "Gradually increase"
+        },
+        {
+            "_comment": "",
+            "minAge": 36,
+            "maxAge": 217,
+            "value": "Up to 3",
+            "unit": "g/kg/day",
+            "more": "Gradually increase"
+        }
+    ],
+    "_comment": "Electrolytes starting here. Conversion factor Sodium (Na): 1 mmol = 23 mg",
+    "na_val": [
+        {
+            "_comment": "",
+            "minAge": -1,
+            "maxAge": 0,
+            "minWeight": 1.5,
+            "maxWeight": null,
+            "value": "Days 1-2: 0-2 (3)\nD3: 0-3\nDay 4+, until stable growth: 2-5\nWhen established stable growth: 3-5",
+            "unit": "mmol/kg/day",
+            "more": "-"
+        },
+        {
+            "_comment": "",
+            "minAge": -1,
+            "maxAge": 0,
+            "minWeight": null,
+            "maxWeight": 1.5,
+            "value": "Days 1-2: 0-2 (3)\nD3: 0-5 (7)\nD4+: until stable growth: 2-5 (7)\nWhen established stable growth: 3-5 (7)",
+            "unit": "mmol/kg/day",
+            "more": "-"
+        },
+        {
+            "_comment": "",
+            "minAge": 0,
+            "maxAge": 1,
+            "value": "Days 1-3: 0-2\nDays 4-5: 1-3\nD6+: 2-3",
+            "unit": "mmol/kg/day",
+            "more": "-"
+        },
+        {
+            "_comment": "",
+            "minAge": 1,
+            "maxAge": 12,
+            "value": "2-3",
+            "unit": "mmol/kg/day",
+            "more": "-"
+        },
+        {
+            "_comment": "",
+            "minAge": 12,
+            "maxAge": 217,
+            "value": "1-3",
+            "unit": "mmol/kg/day",
+            "more": "-"
+        }
+    ],
+    "_comment": "Conversion factor Potassium (K): 1 mmol = 39.1 mg",
+    "k_val": [
+        {
+            "_comment": "",
+            "minAge": -1,
+            "maxAge": 0,
+            "minWeight": 1.5,
+            "maxWeight": null,
+            "value": "Days 1-3: 0-3\nDays 4-5: 2-3\nD6+: 1-3",
+            "unit": "mmol/kg/day",
+            "more": "-"
+        },
+        {
+            "_comment": "",
+            "minAge": -1,
+            "maxAge": 0,
+            "minWeight": null,
+            "maxWeight": 1.5,
+            "value": "Days 1-3: 0-3\nDays 4-5: 2-3\nD6+: until stable growth: 1-3\nWhen established stable growth: 2-5",
+            "unit": "mmol/kg/day",
+            "more": "-"
+        },
+        {
+            "_comment": "",
+            "minAge": 0,
+            "maxAge": 1,
+            "value": "Days 1-3: 0-3\nDays 4-5: 2-3\nAD6+: until stable growth: 1-3\nWhen established stable growth: 1.5-3",
+            "unit": "mmol/kg/day",
+            "more": "-"
+        },
+        {
+            "_comment": "",
+            "minAge": 1,
+            "maxAge": 36,
+            "value": "1-3",
+            "unit": "mmol/kg/day",
+            "more": "-"
+        },
+        {
+            "_comment": "",
+            "minAge": 36,
+            "maxAge": 217,
+            "value": "1-3",
+            "unit": "mmol/kg/day",
+            "more": "-"
+        }
+    ],
+    "_comment": "Conversion factor Chlorine (Cl): 1 mmol = 35.5 mg",
+    "cl_val": [
+        {
+            "_comment": "",
+            "minAge": -1,
+            "maxAge": 0,
+            "value": "Days 1-3: 0-3\nD4+: until stable growth: 2-5\nWhen established stable growth: 3-5",
+            "unit": "mmol/kg/day",
+            "more": "-"
+        },
+        {
+            "_comment": "",
+            "minAge": 0,
+            "maxAge": 1,
+            "value": "Days 1-3: 0-3\nDays 4-5: 2-5\nD6+: 2-3",
+            "unit": "mmol/kg/day",
+            "more": "-"
+        },
+        {
+            "_comment": "",
+            "minAge": 1,
+            "maxAge": 36,
+            "value": "2-4",
+            "unit": "mmol/kg/day",
+            "more": "-"
+        },
+        {
+            "_comment": "",
+            "minAge": 36,
+            "maxAge": 217,
+            "value": "2-4",
+            "unit": "mmol/kg/day",
+            "more": "-"
+        }
+    ],
+    "_comment": "Conversion factor Calcium (Ca): 1 mmol = 40.08 mg",
+    "ca_val": [
+        {
+            "_comment": "",
+            "minAge": -1,
+            "maxAge": 0,
+            "value": "Initial need: 0.8-2.0 (32-80)\nWhen stable growth: 1.6-3.5 (64-140)",
+            "unit": "mmol(mg)/kg/day",
+            "more": "-"
+        },
+        {
+            "_comment": "",
+            "minAge": 0,
+            "maxAge": 6,
+            "value": "0.8-1.5 (30-60)",
+            "unit": "mmol(mg)/kg/day",
+            "more": "-"
+        },
+        {
+            "_comment": "",
+            "minAge": 6,
+            "maxAge": 12,
+            "value": "0.5 (20)",
+            "unit": "mmol(mg)/kg/day",
+            "more": "-"
+        },
+        {
+            "_comment": "",
+            "minAge": 12,
+            "maxAge": 217,
+            "value": "0.25-0.4 (10-16)",
+            "unit": "mmol(mg)/kg/day",
+            "more": "-"
+        }
+    ],
+    "_comment": "Conversion factor Phosphorus (P): 1mmol = 30.97mg. PO4 -> P: 1mg PO4 = 0.0105 P.  Re Phosphorus: Values given by producers are often in Phosphate, and it can be unclear for some producers whether it is meant P or PO4",
+    "p_val": [
+        {
+            "_comment": "",
+            "minAge": -1,
+            "maxAge": 0,
+            "value": "Initial need: 1.0-2.0 (31-62)\nWhen stable growth: 1.6-3.5 (50-108)",
+            "unit": "mmol(mg)/kg/day",
+            "more": "-"
+        },
+        {
+            "_comment": "",
+            "minAge": 0,
+            "maxAge": 6,
+            "value": "0.7-1.3 (20-40)",
+            "unit": "mmol(mg)/kg/day",
+            "more": "-"
+        },
+        {
+            "_comment": "",
+            "minAge": 6,
+            "maxAge": 12,
+            "value": "0.5 (15)",
+            "unit": "mmol(mg)/kg/day",
+            "more": "-"
+        },
+        {
+            "_comment": "",
+            "minAge": 12,
+            "maxAge": 217,
+            "value": "0.2-0.7 (6-22)",
+            "unit": "mmol(mg)/kg/day",
+            "more": "-"
+        }
+    ],
+    "mg_val": [
+        {
+            "_comment": "",
+            "minAge": -1,
+            "maxAge": 0,
+            "value": "Initial need: 0.1-0.2 (2.5-5)\nWhen stable growth: 0.2-0.3 (5.0-7.5)",
+            "unit": "mmol(mg)/kg/day",
+            "more": "-"
+        },
+        {
+            "_comment": "",
+            "minAge": 0,
+            "maxAge": 6,
+            "value": "0.1-0.2 (2.4-5)",
+            "unit": "mmol(mg)/kg/day",
+            "more": "-"
+        },
+        {
+            "_comment": "",
+            "minAge": 6,
+            "maxAge": 12,
+            "value": "0.15 (4)",
+            "unit": "mmol(mg)/kg/day",
+            "more": "-"
+        },
+        {
+            "_comment": "",
+            "minAge": 12,
+            "maxAge": 217,
+            "value": "0.1 (2.4)",
+            "unit": "mmol(mg)/kg/day",
+            "more": "-"
+        }
+    ],
+    "_comment": "Lipid-soluble vitamins starting here",
+    "vit_a_val": [
+        {
+            "_comment": "",
+            "minAge": -1,
+            "maxAge": 1,
+            "value": "700-1500 IU/kg/day\n(227-455 µg/kg/day)",
+            "unit": "IU/kg/day, µg/kg/day",
+            "more": "-"
+        },
+        {
+            "_comment": "",
+            "minAge": 1,
+            "maxAge": 12,
+            "value": "150-300 µg/kg/day or 2300 IU/day (697 µg/day)",
+            "unit": "µg/kg/day, IU/day",
+            "more": "-"
+        },
+        {
+            "_comment": "",
+            "minAge": 12,
+            "maxAge": 217,
+            "value": "150 µg/day",
+            "unit": "µg/day",
+            "more": "-"
+        }
+    ],
+    "_comment": "Vit D conversion factor: 1 IU = 0.025mg Vit D.",
+    "vit_d_val": [
+        {
+            "_comment": "",
+            "minAge": -1,
+            "maxAge": 1,
+            "value": "200-1000 IU/day or 80-400 IU/kg/day", 
+            "unit": "IU/day, IU/kg/day",
+            "more": "-"
+        },
+        {
+            "_comment": "",
+            "minAge": 1,
+            "maxAge": 12,
+            "value": "400 IU/day or 40-150 IU/kg/day", 
+            "unit": "IU/day, IU/kg/day",
+            "more": "-"
+        },
+        {
+            "_comment": "",
+            "minAge": 12,
+            "maxAge": 217,
+            "value": "400-600 IU/day", 
+            "unit": "IU/day",
+            "more": "-"
+        }
+    ],
+    "_comment": "Vitamin E comment: ESPGHAN reference values are the same for IU and mg. Conversion factors: 1IU = 0.67 mg d-alphatocopherol (natural Vit E), and 0.45mg d,l-alpha-tocopherol (synthetic Vit E).",
+    "vit_e_val": [
+        {
+            "_comment": "",
+            "minAge": -1,
+            "maxAge": 12,
+            "value": "2.8-3.5 mg/kg/day or 2.8-3.5 IU/kg/day",
+            "unit": "mg/kg/day, IU/kg/day",
+            "more": "-"
+        },
+        {
+            "_comment": "",
+            "minAge": 12,
+            "maxAge": 217,
+            "value": "11 mg/day or 11 IU/day",
+            "unit": "mg/day, IU/day",
+            "more": "-"
+        }
+    ],
+    "vit_k_val": [
+        {
+            "_comment": "",
+            "minAge": -1,
+            "maxAge": 12,
+            "value": "10 µg/kg/day",
+            "unit": "µg/kg/day",
+            "more": "Recommended, but currently not possible.\nCurrent multivitamin preparations supply higher vitamin K amounts without apparent adverse clinical effects. Dose is independent on local policy of VKDB prevention."
+        },
+        {
+            "_comment": "",
+            "minAge": 12,
+            "maxAge": 217,
+            "value": "200 µg/day",
+            "unit": "µg/day",
+            "more": "-"
+        }
+    ],
+    "_comment": "Water-soluble vitamins starting here",
+    "vit_c_val": [
+        {
+            "_comment": "",
+            "minAge": -1,
+            "maxAge": 12,
+            "value": "15-25 mg/kg/day",
+            "unit": "mg/kg/day",
+            "more": "-"
+        },
+        {
+            "_comment": "",
+            "minAge": 12,
+            "maxAge": 217,
+            "value": "80 mg/day",
+            "unit": "mg/day",
+            "more": "-"
+        }
+    ],
+    "thiamine_val": [
+        {
+            "_comment": "",
+            "minAge": -1,
+            "maxAge": 12,
+            "value": "0.35-0.50 mg/kg/day",
+            "unit": "mg/kg/day",
+            "more": "-"
+        },
+        {
+            "_comment": "",
+            "minAge": 12,
+            "maxAge": 217,
+            "value": "1.2 mg/day",
+            "unit": "mg/day",
+            "more": "-"
+        }
+    ],
+    "riboflavin_val": [
+        {
+            "_comment": "",
+            "minAge": -1,
+            "maxAge": 12,
+            "value": "0.15-0.2 mg/kg/day",
+            "unit": "mg/kg/day",
+            "more": "-"
+        },
+        {
+            "_comment": "",
+            "minAge": 12,
+            "maxAge": 217,
+            "value": "1.4 mg/day",
+            "unit": "mg/day",
+            "more": "-"
+        }
+    ],
+    "pyridoxine_val": [
+        {
+            "_comment": "",
+            "minAge": -1,
+            "maxAge": 12,
+            "value": "0.15-0.2 mg/kg/day",
+            "unit": "mg/kg/day",
+            "more": "-"
+        },
+        {
+            "_comment": "",
+            "minAge": 12,
+            "maxAge": 217,
+            "value": "1.0 mg/day",
+            "unit": "mg/day",
+            "more": "-"
+        }
+    ],
+    "niacin_val": [
+        {
+            "_comment": "",
+            "minAge": -1,
+            "maxAge": 12,
+            "value": "4-6.8 mg/kg/day",
+            "unit": "mg/kg/day",
+            "more": "-"
+        },
+        {
+            "_comment": "",
+            "minAge": 12,
+            "maxAge": 217,
+            "value": "17 mg/day",
+            "unit": "mg/day",
+            "more": "-"
+        }
+    ],
+    "vit_b12_val": [
+        {
+            "_comment": "",
+            "minAge": -1,
+            "maxAge": 12,
+            "value": "0.3 µg/kg/day",
+            "unit": "µg/kg/day",
+            "more": "-"
+        },
+        {
+            "_comment": "",
+            "minAge": 12,
+            "maxAge": 217,
+            "value": "1 µg/day",
+            "unit": "µg/day",
+            "more": "-"
+        }
+    ],
+    "pantothenic_acid_val": [
+        {
+            "_comment": "",
+            "minAge": -1,
+            "maxAge": 12,
+            "value": "2.5 mg/kg/day",
+            "unit": "mg/kg/day",
+            "more": "-"
+        },
+        {
+            "_comment": "",
+            "minAge": 12,
+            "maxAge": 217,
+            "value": "5 mg/day",
+            "unit": "mg/day",
+            "more": "-"
+        }
+    ],
+    "biotin_val": [
+        {
+            "_comment": "",
+            "minAge": -1,
+            "maxAge": 12,
+            "value": "5-8 µg/kg/day",
+            "unit": "µg/kg/day",
+            "more": "-"
+        },
+        {
+            "_comment": "",
+            "minAge": 12,
+            "maxAge": 217,
+            "value": "20 µg/day",
+            "unit": "µg/day",
+            "more": "-"
+        }
+    ],
+    "folic_acid_val": [
+        {
+            "_comment": "",
+            "minAge": -1,
+            "maxAge": 12,
+            "value": "56 µg/kg/day",
+            "unit": "µg/kg/day",
+            "more": "-"
+        },
+        {
+            "_comment": "",
+            "minAge": 12,
+            "maxAge": 217,
+            "value": "140 µg/day",
+            "unit": "µg/day",
+            "more": "-"
+        }
+    ],
+    "_comment": "Trace elements starting here.",
+    "iron_val": [
+        {
+            "_comment": "",
+            "minAge": -1,
+            "maxAge": 0,
+            "value": "200-250 µg/kg/day",
+            "unit": "µg/kg/day",
+            "more": "Max dose = 5 µg/day. Preferentially be given enterally"
+        },
+        {
+            "_comment": "",
+            "minAge": 0,
+            "maxAge": 217,
+            "value": "50-100 µg/kg/day",
+            "unit": "µg/kg/day",
+            "more": "Max dose = 5 µg/day"
+        }
+    ],
+    "zinc_val": [
+        {
+            "_comment": "",
+            "minAge": -1,
+            "maxAge": 0,
+            "value": "400-500 µg/kg/day",
+            "unit": "µg/kg/day",
+            "more": "Max dose = 5 µg/day"
+        },
+        {
+            "_comment": "",
+            "minAge": 0,
+            "maxAge": 3,
+            "value": "250 µg/kg/day",
+            "unit": "µg/kg/day",
+            "more": "Max dose = 5 µg/day"
+        },
+        {
+            "_comment": "",
+            "minAge": 3,
+            "maxAge": 12,
+            "value": "100 µg/kg/day",
+            "unit": "µg/kg/day",
+            "more": "Max dose = 5 µg/day"
+        },
+        {
+            "_comment": "",
+            "minAge": 12,
+            "maxAge": 217,
+            "value": "50 µg/kg/day",
+            "unit": "µg/kg/day",
+            "more": "Max dose = 5 µg/day"
+        }
+    ],
+    "copper_val": [
+        {
+            "_comment": "",
+            "minAge": -1,
+            "maxAge": 0,
+            "value": "40 µg/kg/day",
+            "unit": "µg/kg/day",
+            "more": "Max dose = 0.5 µg/day"
+        },
+        {
+            "_comment": "",
+            "minAge": 0,
+            "maxAge": 217,
+            "value": "20 µg/kg/day",
+            "unit": "µg/kg/day",
+            "more": "Max dose = 0.5 µg/day"
+        }
+    ],
+    "iodine_val": [
+        {
+            "_comment": "",
+            "minAge": -1,
+            "maxAge": 0,
+            "value": "1-10 µg/kg/day",
+            "unit": "µg/kg/day",
+            "more": "Max dose = ? µg/day"
+        },
+        {
+            "_comment": "",
+            "minAge": 0,
+            "maxAge": 217,
+            "value": "1 µg/kg/day",
+            "unit": "µg/kg/day",
+            "more": "Max dose = ? µg/day"
+        }
+    ],
+    "selenium_val": [
+        {
+            "_comment": "",
+            "minAge": -1,
+            "maxAge": 0,
+            "value": "7 µg/kg/day",
+            "unit": "µg/kg/day",
+            "more": "Max dose = 100 µg/day"
+        },
+        {
+            "_comment": "",
+            "minAge": 0,
+            "maxAge": 217,
+            "value": "2-3 µg/kg/day",
+            "unit": "µg/kg/day",
+            "more": "Max dose = 100 µg/day"
+        }
+    ],
+    "manganese_val": [
+        {
+            "_comment": "",
+            "minAge": -1,
+            "maxAge": 217,
+            "value": "≤1 µg/kg/day",
+            "unit": "µg/kg/day",
+            "more": "Max dose = 50 µg/day"
+        }
+    ],
+    "molybdenum_val": [
+        {
+            "_comment": "",
+            "minAge": -1,
+            "maxAge": 0,
+            "value": "1 µg/kg/day",
+            "unit": "µg/kg/day",
+            "more": "Max dose = 5 µg/day"
+        },
+        {
+            "_comment": "",
+            "minAge": 0,
+            "maxAge": 217,
+            "value": "0.25 µg/kg/day",
+            "unit": "µg/kg/day",
+            "more": "Max dose = 5 µg/day"
+        }
+    ],
+    "chromium_val": [
+        {
+            "_comment": "",
+            "minAge": -1,
+            "maxAge": 217,
+            "value": "-",
+            "unit": null,
+            "more": "Max dose = 5 µg/day"
+        }
+    ]
+}

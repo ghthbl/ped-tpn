@@ -10,8 +10,8 @@ cl_val,Chlorine (Cl),mmol,0
 ca_val,Calcium (Ca),mmol,0
 p_val,Phosphorus (P),mmol,0
 mg_val,Magnesium (Mg),mmol,0
-vit_a_val,Vitamin A pr kg,μg,0
-vit_d_val,Vitamin D pr day,μg,0
+vit_a_val,Vitamin A,μg,0
+vit_d_val,Vitamin D,μg,0
 vit_e_val,Vitamin E,mg,0
 vit_k_val,Vitamin K,μg,0
 vit_c_val,Vitamin C,mg,100

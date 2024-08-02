@@ -1,6 +1,6 @@
 Variable name,Display name,unit,Addaven,Peditrace
-unit_vol,Unit volume,ml,0,0
-fluid_val,Fluid,ml,0,0
+unit_vol,Unit volume,ml,1,1
+fluid_val,Fluid,ml,1,1
 glucose_val,Glucose,g,0,0
 amino_val,Amino acids,g,0,0
 lipids_val,Lipids,g,0,0
@@ -23,11 +23,11 @@ vit_b12_val,Vitamin B12,μg,0,0
 pantothenic_acid_val,Pantothenic acid,mg,0,0
 biotin_val,Biotin,μg,0,0
 folic_acid_val,Folic acid,μg,0,0
-iron_val,Iron,μg,2000,0
-zinc_val,Zinc,μg,7700,3820
-copper_val,Copper,μg,600,315
-iodine_val,Iodine,μg,100,7.88
-selenium_val,Selenium,μg,100,25.3
-manganese_val,Manganese,μg,100,18.2
-molybdenum_val,Molybdenum,μg,20,0
-chromium_val,Chromium,μg,20,0
+iron_val,Iron,μg,110,0
+zinc_val,Zinc,μg,500,250
+copper_val,Copper,μg,38,20
+iodine_val,Iodine,μg,13,1
+selenium_val,Selenium,μg,7.9,2
+manganese_val,Manganese,μg,5.5,1
+molybdenum_val,Molybdenum,μg,1.9,0
+chromium_val,Chromium,μg,1,0

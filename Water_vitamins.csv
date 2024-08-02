@@ -1,4 +1,4 @@
-Variable name,Display name,unit,"Soluvit(10ml=1vial")
+Variable name,Display name,unit,"Soluvit (10ml=1vial)"
 unit_vol,Unit volume,ml,10
 fluid_val,Fluid,ml,0
 glucose_val,Glucose,g,0

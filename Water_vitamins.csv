@@ -1,5 +1,5 @@
 Variable name,Display name,unit,Soluvit
-unit_vol,Unit volume,ml,0
+unit_vol,Unit volume,ml,10
 fluid_val,Fluid,ml,0
 glucose_val,Glucose,g,0
 amino_val,Amino acids,g,0

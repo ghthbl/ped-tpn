@@ -1,6 +1,6 @@
 Variable name,Display name,unit,Vitalipid Adult,Vitalipid Infant
-unit_vol,Unit volume,ml,0,0
-fluid_val,Fluid,ml,0,0
+unit_vol,Unit volume,ml,1,1
+fluid_val,Fluid,ml,1,1
 glucose_val,Glucose,g,0,0
 amino_val,Amino acids,g,0,0
 lipids_val,Lipids,g,0,0

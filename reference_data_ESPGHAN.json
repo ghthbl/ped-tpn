@@ -701,7 +701,7 @@
             "maxAge": 0,
             "value": "200-250 µg/kg/day",
             "unit": "µg/kg/day",
-            "more": "Max dose = 5 µg/day. Preferentially be given enterally"
+            "more": "Max dose = 5 mg/day. Preferentially be given enterally"
         },
         {
             "_comment": "",
@@ -709,7 +709,7 @@
             "maxAge": 217,
             "value": "50-100 µg/kg/day",
             "unit": "µg/kg/day",
-            "more": "Max dose = 5 µg/day"
+            "more": "Max dose = 5mg/day"
         }
     ],
     "zinc_val": [
@@ -719,7 +719,7 @@
             "maxAge": 0,
             "value": "400-500 µg/kg/day",
             "unit": "µg/kg/day",
-            "more": "Max dose = 5 µg/day"
+            "more": "Max dose = 5 mg/day"
         },
         {
             "_comment": "",
@@ -727,7 +727,7 @@
             "maxAge": 3,
             "value": "250 µg/kg/day",
             "unit": "µg/kg/day",
-            "more": "Max dose = 5 µg/day"
+            "more": "Max dose = 5 mg/day"
         },
         {
             "_comment": "",
@@ -735,7 +735,7 @@
             "maxAge": 12,
             "value": "100 µg/kg/day",
             "unit": "µg/kg/day",
-            "more": "Max dose = 5 µg/day"
+            "more": "Max dose = 5 mg/day"
         },
         {
             "_comment": "",
@@ -743,7 +743,7 @@
             "maxAge": 217,
             "value": "50 µg/kg/day",
             "unit": "µg/kg/day",
-            "more": "Max dose = 5 µg/day"
+            "more": "Max dose = 5 mg/day"
         }
     ],
     "copper_val": [
@@ -753,7 +753,7 @@
             "maxAge": 0,
             "value": "40 µg/kg/day",
             "unit": "µg/kg/day",
-            "more": "Max dose = 0.5 µg/day"
+            "more": "Max dose = 0.5 mg/day"
         },
         {
             "_comment": "",
@@ -761,7 +761,7 @@
             "maxAge": 217,
             "value": "20 µg/kg/day",
             "unit": "µg/kg/day",
-            "more": "Max dose = 0.5 µg/day"
+            "more": "Max dose = 0.5 mg/day"
         }
     ],
     "iodine_val": [
@@ -771,7 +771,7 @@
             "maxAge": 0,
             "value": "1-10 µg/kg/day",
             "unit": "µg/kg/day",
-            "more": "Max dose = ? µg/day"
+            "more": "Max dose = ? mg/day"
         },
         {
             "_comment": "",
@@ -779,7 +779,7 @@
             "maxAge": 217,
             "value": "1 µg/kg/day",
             "unit": "µg/kg/day",
-            "more": "Max dose = ? µg/day"
+            "more": "Max dose = ? mg/day"
         }
     ],
     "selenium_val": [

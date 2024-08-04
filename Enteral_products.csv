@@ -30,6 +30,6 @@ zinc_val,Zinc,μg,1200,2400
 copper_val,Copper,μg,150,300
 iodine_val,Iodine,μg,15,30
 selenium_val,Selenium,μg,4.5,9.0
-manganese_val,Manganese,μg,180,360
+manganese_val,Manganese,μg,0.18,0.36
 molybdenum_val,Molybdenum,μg,6,12
 chromium_val,Chromium,μg,6,12

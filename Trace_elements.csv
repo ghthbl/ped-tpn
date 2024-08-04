@@ -1,5 +1,7 @@
 Variable name,Display name,unit,Addaven,Peditrace
 unit_vol,Unit volume,ml,1,1
+kcal_total_val, Energy (total),kcal,0,0
+kcal_nprot_val, Non-protein energy,kcal,0,0
 fluid_val,Fluid,ml,1,1
 glucose_val,Glucose,g,0,0
 amino_val,Amino acids,g,0,0

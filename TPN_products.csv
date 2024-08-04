@@ -1,5 +1,7 @@
 Variable name,Display name,unit,Standard 15-40 kg,Standard 10-15 kg,Numeta G13E,Numeta G16E,Numeta G19E,Kabiven,Kabiven Perifer,SmofKabiven,SmofKabiven Elektrolytfri,SmofKabiven extra Nitrogen,SmofKabiven extra Nitrogen Electrolyte free,SmofKabiven Perifer
 unit_vol,Unit volume,ml,100,100,300,500,1000,1000,1000,1000,1000,1000,1000,1000
+kcal_total_val, Energy (total),kcal,0,0,0,0,0,0,0,0,0,0,0,0
+kcal_nprot_val, Non-protein energy,kcal,0,0,0,0,0,0,0,0,0,0,0,0
 fluid_val,Fluid,ml,100,100,300,500,1000,1000,1000,1000,1000,1000,1000,1000
 glucose_val,Glucose,g,15,13.3,40,77.5,192,97,68,127,127,84.7,84.7,71
 amino_val,Amino acids,g,3.4,3,9.4,13,23,33,24,51,51,65.5,65.5,32

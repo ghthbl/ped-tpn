@@ -1,5 +1,7 @@
 Variable name,Display name,unit,Frebini Energy 1dl,Frebini Energy 1 can
 unit_vol,Unit volume,ml,100,200
+kcal_total_val, Energy (total),kcal,0,0
+kcal_nprot_val, Non-protein energy,kcal,0,0
 fluid_val,Fluid,ml,78,156
 glucose_val,Glucose,g,18.7,37.4
 amino_val,Amino acids,g,3.83,7.66
